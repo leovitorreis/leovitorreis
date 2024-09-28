@@ -1,16 +1,21 @@
-### Hi there 👋
+## Sobre Mim
 
-<!--
-**leovitorreis/leovitorreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Léo Vitor Reis dos Santos e sou um entusiasta de desenvolvimento web. Atualmente, estou estudando curso técnico de desenvolvimento de sistema no CEDUP Jl.
 
-Here are some ideas to get you started:
+### Interesses Profissionais
+Tenho paixão por desenvolvimento web e adoro trabalhar em projetos que envolvem HTML, CSS, JavaScript e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades e Especializações
+- HTML
+- CSS
+- JavaScript
+- Python
+- MySQL
+- Java
+
+### Objetivos
+Meu objetivo é me tornar um desenvolvedor full-stack e, no futuro, um engenheiro de software, trabalhando em projetos inovadores.
+
+### Contato
+- E-mail: leovitorreis@gmail.com
+- LinkedIn: linkedin.com/in/leo-vitor-reis-dos-santos
