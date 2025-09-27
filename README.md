@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Meu nome é Léo Vitor Reis dos Santos e sou um entusiasta de desenvolvimento web. Atualmente, estou estudando curso técnico de desenvolvimento de sistema no CEDUP Jl.
+Olá! Meu nome é Léo Vitor Reis dos Santos e sou um entusiasta de desenvolvimento web. Atualmente, estou estudando curso técnico de desenvolvimento de sistema no CEDUP Jl e engenharia de software na Anhanguera.
 
 ### Interesses Profissionais
 Tenho paixão por desenvolvimento web e adoro trabalhar em projetos que envolvem HTML, CSS, JavaScript e Python.
