@@ -1,5 +1,3 @@
-## Sobre Mim
-
 ## Olá, eu sou o Léo Vitor! 👋
 
 Sou um entusiasta de desenvolvimento web, atualmente a frequentar o curso técnico de Desenvolvimento de Sistemas no CEDUP Jl e Engenharia de Software na Anhanguera. O meu grande objetivo é tornar-me um desenvolvedor full-stack e engenheiro de software, de forma a construir soluções e trabalhar em projetos inovadores.
