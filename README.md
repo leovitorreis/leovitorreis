@@ -1,21 +1,27 @@
 ## Sobre Mim
 
-Olá! Meu nome é Léo Vitor Reis dos Santos e sou um entusiasta de desenvolvimento web. Atualmente, estou estudando curso técnico de desenvolvimento de sistema no CEDUP Jl e engenharia de software na Anhanguera.
+## Olá, eu sou o Léo Vitor! 👋
 
-### Interesses Profissionais
-Tenho paixão por desenvolvimento web e adoro trabalhar em projetos que envolvem HTML, CSS, JavaScript e Python.
+Sou um entusiasta de desenvolvimento web, atualmente a frequentar o curso técnico de Desenvolvimento de Sistemas no CEDUP Jl e Engenharia de Software na Anhanguera. O meu grande objetivo é tornar-me um desenvolvedor full-stack e engenheiro de software, de forma a construir soluções e trabalhar em projetos inovadores.
 
-### Habilidades e Especializações
-- HTML
-- CSS
-- JavaScript
-- Python
-- MySQL
-- Java
+### 💻 As Minhas Habilidades e Ferramentas
 
-### Objetivos
-Meu objetivo é me tornar um desenvolvedor full-stack e, no futuro, um engenheiro de software, trabalhando em projetos inovadores.
+Tenho paixão por desenvolvimento web e foco os meus estudos nas seguintes tecnologias:
 
-### Contato
-- E-mail: leovitorreis@gmail.com
-- LinkedIn: linkedin.com/in/leo-vitor-reis-dos-santos
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🚀 Projetos em Destaque
+
+* **[Nome do seu Projeto 1](Link para o repositório):** Uma breve descrição de uma linha sobre o que o projeto faz e quais as tecnologias que utilizou (ex: *Sistema de registo de clientes utilizando Python e MySQL.*).
+* **[Nome do seu Projeto 2](Link para o repositório):** Uma breve descrição de uma linha.
+
+### 📫 Como me encontrar
+
+- **LinkedIn:** [leo-vitor-reis-dos-santos](https://linkedin.com/in/leo-vitor-reis-dos-santos)
+- **E-mail:** [leovitorreis@gmail.com](mailto:leovitorreis@gmail.com)
