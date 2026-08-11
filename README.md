@@ -1,10 +1,10 @@
 ## Olá, eu sou o Léo Vitor! 👋
 
-[cite_start]Sou técnico em Desenvolvimento de Sistemas formado pelo CEDUP Jl e, atualmente, curso Engenharia de Software na Anhanguera[cite: 30]. Meu grande objetivo profissional é atuar como **Engenheiro de Software**. Sou um entusiasta da programação e, no momento, meu foco principal e maior paixão é desenvolver soluções utilizando **Python**.
+Sou técnico em Desenvolvimento de Sistemas formado pelo CEDUP Jl e, atualmente, curso Engenharia de Software na Anhanguera. Meu grande objetivo profissional é atuar como **Engenheiro de Software**. Sou um entusiasta da programação e, no momento, meu foco principal e maior paixão é desenvolver soluções utilizando **Python**.
 
 ### 💻 Minhas Habilidades e Ferramentas
 
-[cite_start]Embora meu foco atual seja Python, possuo uma base sólida em desenvolvimento web e banco de dados. Aqui estão as principais tecnologias com as quais trabalho:[cite: 32].
+Embora meu foco atual seja Python, possuo uma base sólida em desenvolvimento web e banco de dados. Aqui estão as principais tecnologias com as quais trabalho:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
