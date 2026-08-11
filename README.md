@@ -1,6 +1,6 @@
 ## Olá, eu sou o Léo Vitor! 👋
 
-[cite_start]Sou técnico em Desenvolvimento de Sistemas formado pelo CEDUP Jl e, atualmente, curso Engenharia de Software na Anhanguera[cite: 31, 51]. [cite_start]Meu grande objetivo profissional é atuar como **Engenheiro de Software**[cite: 54]. [cite_start]Sou um entusiasta da programação e, no momento, meu foco principal e maior paixão é desenvolver soluções utilizando **Python**[cite: 54, 55].
+Sou técnico em Desenvolvimento de Sistemas formado pelo CEDUP Jl e, atualmente, curso Engenharia de Software na Anhanguera. Meu grande objetivo profissional é atuar como **Engenheiro de Software**. Sou um entusiasta da programação e, no momento, meu foco principal e maior paixão é desenvolver soluções utilizando **Python**].
 
 ### 💻 Minhas Habilidades e Ferramentas
 
@@ -16,8 +16,8 @@ Embora meu foco atual seja Python, possuo uma base sólida em desenvolvimento we
 
 ### 🚀 Projetos em Destaque
 
-* [cite_start]**[Sistema de Cadastro de Livros](https://github.com/leovitorreis/Sistema_cadastro_livros):** Sistema desenvolvido em Python para o cadastro e listagem de livros[cite: 74]. [cite_start]O projeto utiliza listas, dicionários e funções para a estruturação dos dados [cite: 73][cite_start], além de integrar a biblioteca **Matplotlib** para a geração de gráficos de barras mostrando a quantidade de livros por gênero[cite: 74, 78].
-* [cite_start]**[Simulador de Caixa Eletrônico](https://github.com/leovitorreis/Caixa_eletronico):** Script em Python que simula as operações básicas de um caixa eletrônico (consulta de saldo e saques)[cite: 91, 92]. [cite_start]Desenvolvido para aplicar conceitos fundamentais de programação, estruturando lógicas com funções, laços de repetição, condicionais [cite: 93] [cite_start]e validação de regras de negócio (como saques apenas em múltiplos de R$ 10,00)[cite: 96].
+* **[Sistema de Cadastro de Livros](https://github.com/leovitorreis/Sistema_cadastro_livros):** Sistema desenvolvido em Python para o cadastro e listagem de livros. O projeto utiliza listas, dicionários e funções para a estruturação dos dados, além de integrar a biblioteca **Matplotlib** para a geração de gráficos de barras mostrando a quantidade de livros por gênero.
+* **[Simulador de Caixa Eletrônico](https://github.com/leovitorreis/Caixa_eletronico):** Script em Python que simula as operações básicas de um caixa eletrônico (consulta de saldo e saques). Desenvolvido para aplicar conceitos fundamentais de programação, estruturando lógicas com funções, laços de repetição, condicionais e validação de regras de negócio (como saques apenas em múltiplos de R$ 10,00).
 
 ### 📫 Como me encontrar
 
